@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 80px;
+    color: #60686B;
+}
+
+.linkConverter{
+    border: solid #60686B 1px;
+    height: 22px;
+}
